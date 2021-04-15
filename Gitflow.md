@@ -9,3 +9,7 @@
 *11:34* Bugfix branched from Develop - here is a fix to and error found on develop
 
 *11:36* Release branched from Develop - we are ready to sent this to Master
+
+*11:38* Bugfix branched from Release - by default the bugfix is branched from Develop, but this one was forced to branch
+from the release
+
