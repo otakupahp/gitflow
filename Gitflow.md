@@ -13,3 +13,4 @@
 *11:38* Bugfix branched from Release - by default the bugfix is branched from Develop, but this one was forced to branch
 from the release
 
+*11:41* Bugfix closed and rebased to release - the Develop branch was checked and the changes weren't there
