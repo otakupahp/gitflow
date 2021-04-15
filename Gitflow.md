@@ -16,3 +16,5 @@ from the release
 *11:41* Bugfix closed and rebased to release - the Develop branch was checked and the changes weren't there
 
 *11:50* Feature branched from Develop - here is another new feature
+
+*11:52* Release branched from Develop - we are going Live again
